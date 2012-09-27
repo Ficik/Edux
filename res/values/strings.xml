@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Edux</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_course_select">Edux</string>
+    <string name="add_course">Add course</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="validation_method">Validation method</string>
+    <string name="login">Login</string>
+    <string name="title_activity_browser">BrowserActivity</string>
+    <string name="show_menu">Show menu</string>
+
+</resources>
